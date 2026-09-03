@@ -43,3 +43,20 @@
   border: 2px solid;
   margin: 12px 0;
 }
+#outputText:disabled {
+  background-color: #f0f0f0;
+}
+#outputText {
+  background-color: #f0f0f0;
+}
+#copyBtn {
+  background-color: #008cba;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#copyBtn:hover {
+  background-color: #005f5f;
+}
