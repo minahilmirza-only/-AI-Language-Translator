@@ -18,3 +18,10 @@
   border: 2px solid;
   margin: 12px 0;
 }
+#targertlangs {
+  border-radius: 3px;
+  padding: 6px;
+  margin: 6px;
+  border-color: black;
+  border: 2px solid;
+}
