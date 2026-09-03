@@ -5,4 +5,5 @@
 .container h2 {
   display: flex;
   justify-content: center;
+  font-size: 30px;
 }
