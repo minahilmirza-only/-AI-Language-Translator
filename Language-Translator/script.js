@@ -1,4 +1,4 @@
-const TranslateBtn = document.getElementById('Translatebtn');
+const Translatebtn = document.getElementById('Translatebtn');
 const inputText = document.getElementById('inputText');
 const targetlangs = document.getElementById('targetlangs');
 const outputText = document.getElementById('outputText');
