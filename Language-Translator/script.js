@@ -8,7 +8,7 @@ const speakBtn = document.getElementById('speakBtn');
 
 TranslateBtn.addEventListener('click', async () => {
   const text = inputText.value.trim();
-  const targetLang = targetlangs.value();
+  const targetLang = targetlangs.value;
 
   if (text === '') {
     alert('Please enter text to translate.');
