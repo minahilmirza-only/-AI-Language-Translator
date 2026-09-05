@@ -14,5 +14,4 @@ TranslateBtn.addEventListener('click', async () => {
     alert('Please enter text to translate.');
     return;
   }
-
 });
